@@ -1,0 +1,11 @@
+{
+  "name": "cmp-software-engineering",
+  "version": "1.0.0",
+  "description": "Welcome to the Software Engineering Course Repository! This repository is designed to support students enrolled in CMP's Software Engineering course by providing a central hub for accessing course materials, lab assignments, and additional resources.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
